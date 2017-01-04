@@ -140,7 +140,7 @@ return [
     'view_replace_str' => [
         '__ROOT__'   => $basename,
         '__DATA__'   => $basename . '/data',
-        '__PUBLIC__' => $basename . '',
+        '__PUBLIC__' => $basename . '/public',
         '__UPLOAD__'=> $basename . '/data/upload',
     ],
 
